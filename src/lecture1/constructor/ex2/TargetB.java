@@ -1,4 +1,4 @@
-package lecture1.constructorlecture.ex2;
+package lecture1.constructor.ex2;
 
 public class TargetB {
 

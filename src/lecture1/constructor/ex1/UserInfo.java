@@ -1,4 +1,4 @@
-package lecture1.constructorlecture.ex1;
+package lecture1.constructor.ex1;
 
 public class UserInfo {
 
