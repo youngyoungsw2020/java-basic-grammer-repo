@@ -1,4 +1,4 @@
-package lecture1.constructorlecture.ex3.vo;
+package lecture1.constructor.ex3.vo;
 
 public class Animal {
 

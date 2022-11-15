@@ -1,6 +1,6 @@
-package lecture1.constructorlecture.ex4;
+package lecture1.constructor.ex4;
 
-import lecture1.constructorlecture.ex4.vo.NexonUserInfo;
+import lecture1.constructor.ex4.vo.NexonUserInfo;
 
 public class TestMain2 {
 

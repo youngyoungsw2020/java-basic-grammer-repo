@@ -1,4 +1,4 @@
-package lecture1.constructorlecture.ex4.vo;
+package lecture1.constructor.ex4.vo;
 
 public class NexonUserInfo extends UserInfo {
 
