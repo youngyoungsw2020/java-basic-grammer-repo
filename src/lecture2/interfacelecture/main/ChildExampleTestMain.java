@@ -1,6 +1,9 @@
-package lecture2.interfacelecture.ex1;
+package lecture2.interfacelecture.main;
 
-public class ChildExample1 {
+import lecture2.interfacelecture.ex1.Child1;
+import lecture2.interfacelecture.ex1.Parent1;
+
+public class ChildExampleTestMain {
 
     public static void main(String args[]) {
 
