@@ -1,4 +1,4 @@
-package lecture5.list;
+package lecture5.list.main;
 
 import java.util.ArrayList;
 import java.util.concurrent.atomic.AtomicInteger;

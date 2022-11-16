@@ -1,4 +1,4 @@
-package lecture4.hashcode;
+package lecture4.hashcode.main;
 
 public class ExampleEqualsAndHashCode {
 

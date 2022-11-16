@@ -1,9 +1,9 @@
-package lecture3.stacksample;
+package lecture3.stacksample.main;
 
 import java.util.ArrayList;
 import java.util.Stack;
 
-public class StackExample1 {
+public class StackExample {
 
     public static void main(String args[]) {
 

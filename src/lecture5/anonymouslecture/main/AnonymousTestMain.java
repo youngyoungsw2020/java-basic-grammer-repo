@@ -1,4 +1,7 @@
-package lecture5.anonymouslecture;
+package lecture5.anonymouslecture.main;
+
+import lecture5.anonymouslecture.Animal;
+import lecture5.anonymouslecture.Cat;
 
 public class AnonymousTestMain {
     public static void main(String[] args) {

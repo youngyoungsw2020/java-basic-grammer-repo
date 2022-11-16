@@ -1,4 +1,4 @@
-package lecture6.genericlecture.testmain;
+package lecture6.genericlecture.main;
 
 
 import java.util.Collections;

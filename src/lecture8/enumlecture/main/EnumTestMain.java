@@ -2,7 +2,7 @@ package lecture8.enumlecture.main;
 
 import lecture8.enumlecture.enumtest.EnumTest1;
 
-class TestMain1 {
+class EnumTestMain {
 
     public static void main(String[] args) {
         EnumTest1 testCode1 = EnumTest1.CODE_1;
