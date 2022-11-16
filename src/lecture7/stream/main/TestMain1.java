@@ -11,30 +11,9 @@ public class TestMain1 {
         java.io.FileInputStream fis = null;
         java.io.FileOutputStream fos = null;
 
-
-        int i = 1;
-        ext:while(true) {
-            switch(i) {
-                case 1:
-                    // 어쩌구저쩌구
-                    System.out.println("case 1 :: " + i);
-                    i++;
-                    break;
-                case 2:
-                    // 어쩌구저쩌구
-                    System.out.println("case 2 :: " + i);
-                    i++;
-                    break;
-                default:
-                    System.out.println("case default :: " + i);
-                    break ext;
-            }
-        }
-
         try {
             String path = "C:\\Users\\9001037\\IdeaProjects\\test-repo-2\\prop\\lecture7_ex_1.properties";
             fis = new FileInputStream(path);
-
 
             // read properties
             java.util.Properties properties = new Properties();
@@ -46,9 +25,6 @@ public class TestMain1 {
             fos = new FileOutputStream(path);
             properties.setProperty("test1.test2.testsave2","java에서 입력함2");
             properties.store(fos, "뭐가저장되는거지");
-
-
-
         } catch (IOException e1) {
             e1.printStackTrace();
         } catch (Exception e2) {
@@ -59,7 +35,6 @@ public class TestMain1 {
 
             }
         }
-
     }
 
 }
