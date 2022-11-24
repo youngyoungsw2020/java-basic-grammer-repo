@@ -2,6 +2,8 @@ package lecture8.enumlecture.main;
 
 import lecture8.enumlecture.enumtest.EnumTest1;
 
+
+// java enum은 jdk5에서 추가 됨.
 class EnumTestMain {
 
     public static void main(String[] args) {
